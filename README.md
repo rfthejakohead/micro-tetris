@@ -1,5 +1,5 @@
 # micro:tetris
-micro:tetris is a tetris implementation for [micro:bit](https://www.microbit.co.uk/) written in (kind of) a speedrun in 2 and a half days.
+micro:tetris is a tetris implementation for [micro:bit](https://www.microbit.co.uk/) written in (kind of) a speedrun in 2 and a half days. Not to be confused with [Micro Tetris](http://troglobit.github.io/tetris.html)!
 
 ### Compiling
 
